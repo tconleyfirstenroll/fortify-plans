@@ -53,7 +53,7 @@ const pillars = [
 
 const stats = [
   { value: "4", label: "Product Lines" },
-  { value: "50", label: "States Licensed" },
+  { value: "50", label: "Broad Availability" },
   { value: "100%", label: "Compliance Focus" },
   { value: "5★", label: "Client Satisfaction Goal" },
 ];
