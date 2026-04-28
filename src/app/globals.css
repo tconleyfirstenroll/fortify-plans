@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #ffffff;
+  --color-foreground: #1a1a2e;
+
+  /* Fortify brand palette — sourced from logo */
+  --color-navy-950: #0d1f42;
+  --color-navy-900: #1b3a6e;
+  --color-navy-800: #1e4080;
+  --color-navy-700: #2d5faa;
+  --color-navy-600: #3a72c2;
+  --color-navy-500: #4a85d4;
+  --color-navy-400: #6a9fde;
+  --color-navy-100: #dde8f7;
+  --color-navy-50:  #eef4fb;
+
+  --color-silver-600: #6b7f99;
+  --color-silver-400: #8c9db5;
+  --color-silver-200: #c4cfdb;
+  --color-silver-100: #e8ecf1;
+  --color-silver-50:  #f4f6f9;
+
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: #ffffff;
+  color: #1a1a2e;
+  font-family: Arial, Helvetica, sans-serif;
+}
