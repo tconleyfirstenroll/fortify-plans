@@ -79,11 +79,6 @@ export default function Footer() {
                   info@fortify-plans.com
                 </a>
               </li>
-              <li>
-                <a href="tel:+18005551234" className="hover:text-white transition-colors">
-                  (800) 555-1234
-                </a>
-              </li>
             </ul>
           </div>
         </div>

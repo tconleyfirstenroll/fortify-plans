@@ -55,12 +55,6 @@ export default function ContactPage() {
                       info@fortify-plans.com
                     </a>
                   </p>
-                  <p>
-                    <span className="font-medium text-[#1b3a6e]">Phone: </span>
-                    <a href="tel:+18005551234" className="hover:text-[#2d5faa] transition-colors">
-                      (800) 555-1234
-                    </a>
-                  </p>
                 </div>
               </div>
 
