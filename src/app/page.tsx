@@ -109,7 +109,7 @@ export default function HomePage() {
       {/* Stats bar */}
       <section className="bg-[#1b3a6e] text-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+          <div className="flex flex-wrap justify-center gap-10 text-center">
             {stats.map(({ value, label }) => (
               <div key={label}>
                 <div className="text-3xl font-bold text-[#6a9fde]">{value}</div>
